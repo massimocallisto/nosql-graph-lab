@@ -1,0 +1,19 @@
+id,label,category,type,fw_version,hw_version,ports_numer,capacity,installation_date
+pir_1,PIR 1,sensor,pir,1.0b,1.00.00,,,2019-05-15T15:00:00
+env_1,Environmental 1,sensor,environmental,1.0c,1.00.00,,,2019-05-15T15:00:00
+pir_2,PIR 2,sensor,pir,1.0c,2.00.00,,,2019-05-15T16:30:00
+ctrl_access,Access Control,sensor,access_control,1.0refc,,,,2019-05-16T09:30:00
+lb1,LB1,space,class_room,,,,30,
+lb2,LB2,space,class_room,,,,25,
+polob_ludovici,Polo B Ludovici,space,department,,,,,
+gw1,IoT Gateway,actuator,gateway,,3.0,,,2019-05-15T14:00:00
+power1,Line Power,equipment,energy_cabin,,,,6Kw,2019-02-21T14:00:00
+net1,Network line,equipment,swith,,,24,20 Gbps,
+net2,Network line,equipment,swith,,,24,,
+uc_wellness,Wellness Room,logic,use_case,,,,,
+uc_temp,Temperature Room,logic,use_case,,,,,
+uc_access,Access Control,logic,use_case,,,,,
+phd_room,PHD room,space,study_room,,,,10,
+polob_ludovici_a,Polo A Ludovici,space,department,,,,,
+camerino,Camerino,place,city,,,,,
+mario_rossi,Mario Rossi,person,department_director,,,,,
