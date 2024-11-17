@@ -7,17 +7,13 @@ To run ArangoDB we use a docker distribution.
 
 * Docker and Docker Compose environment
 
-## Setup 
+## Run
 
-Create two folders for data dir and scripts:
-
-    mkdir data
-
-Then you can run the docker compose:
+You can run the docker compose:
     
     docker-compose up
 
-The connect to the web interface ( change `localhost` with your remote VM ip if needed)
+Then connect to the web interface ( change `localhost` with your remote VM ip if needed)
 
     http://localhost:8529/
 
