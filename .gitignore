@@ -1,2 +1,6 @@
 dataset/*
 !dataset/.gitkeep
+my-folder/*
+.DS_Store
+*/.DS_Store
+
